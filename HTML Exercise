@@ -767,33 +767,33 @@ class=GramE>&lt;!DOCTYPE</span> html&gt;</p>
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'>&lt;html&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>  </span>&lt;title&gt;Everyday with Isa&lt;/title&gt;</p>
+style='mso-spacerun:yes'>Â  </span>&lt;title&gt;Everyday with Isa&lt;/title&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>  </span>&lt;body&gt;</p>
+style='mso-spacerun:yes'>Â  </span>&lt;body&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>   </span>&lt;a <span class=SpellE>href</span>='#contact'&gt;&lt;<span
+style='mso-spacerun:yes'>Â Â  </span>&lt;a <span class=SpellE>href</span>='#contact'&gt;&lt;<span
 class=SpellE>img</span>
 src=&quot;https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/profile.jpg&quot;&gt;&lt;/a&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>    </span>&lt;h3&gt;by Isabelle Rodriguez | 1 day
+style='mso-spacerun:yes'>Â Â Â  </span>&lt;h3&gt;by Isabelle Rodriguez | 1 day
 ago&lt;/h3&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>    </span>&lt;h1&gt;An Insider's Guide to
+style='mso-spacerun:yes'>Â Â Â  </span>&lt;h1&gt;An Insider's Guide to
 NYFW&lt;/h1&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>img</span>
+style='mso-spacerun:yes'>Â Â Â  </span>&lt;<span class=SpellE>img</span>
 src=&quot;https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/image-one.jpeg&quot;&gt;&lt;br&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>  </span>&lt;p&gt;</p>
+style='mso-spacerun:yes'>Â  </span>&lt;p&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>    </span>&lt;a <span class=SpellE>href</span>=&quot;https://en.wikipedia.org/wiki/<span
+style='mso-spacerun:yes'>Â Â Â  </span>&lt;a <span class=SpellE>href</span>=&quot;https://en.wikipedia.org/wiki/<span
 class=SpellE>New_York_Fashion_Week</span>&quot; target=&quot;_blank&quot;&gt;NYFW&lt;/a&gt;
 can be both amazingly fun &amp; incredibly overwhelming, especially if you've
 never been. Luckily, I'm here to give you an insider's guide and make your
@@ -803,15 +803,15 @@ following your gut, you'll have an unforgettable experience!</p>
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'>&lt;/p&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>    </span>&lt;h2&gt;Getting Tickets &amp; Picking the
+style='mso-spacerun:yes'>Â Â Â  </span>&lt;h2&gt;Getting Tickets &amp; Picking the
 Shows&lt;/h2&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>img</span>
+style='mso-spacerun:yes'>Â Â Â  </span>&lt;<span class=SpellE>img</span>
 src=&quot;https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/image-two.jpeg&quot;&gt;&lt;br&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>    </span>&lt;p&gt;</p>
+style='mso-spacerun:yes'>Â Â Â  </span>&lt;p&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'>If you're
 lucky or connected you can get an invite, since the price tag. But, I wasn't so
@@ -826,15 +826,15 @@ and get excited!</p>
 class=SpellE>br</span>&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>    </span>&lt;h2&gt;Dressing for the Shows&lt;/h2&gt;</p>
+style='mso-spacerun:yes'>Â Â Â  </span>&lt;h2&gt;Dressing for the Shows&lt;/h2&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'> </span><span style='mso-spacerun:yes'>   </span>&lt;<span
+style='mso-spacerun:yes'>Â </span><span style='mso-spacerun:yes'>Â Â  </span>&lt;<span
 class=SpellE>img</span>
 src=&quot;https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/image-three.jpeg&quot;&gt;&lt;br&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>    </span>&lt;p&gt;</p>
+style='mso-spacerun:yes'>Â Â Â  </span>&lt;p&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'>Always be
 true to your own sense of style. If you don't, <span class=SpellE>youll</span>
@@ -847,45 +847,45 @@ good, but you will be on your feet all day long, so be prepared.</p>
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'>&lt;/p&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>  </span></p>
+style='mso-spacerun:yes'>Â  </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>  </span>&lt;h4&gt;Related Content&lt;/h4&gt;</p>
+style='mso-spacerun:yes'>Â  </span>&lt;h4&gt;Related Content&lt;/h4&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>    </span>&lt;<span class=SpellE>ul</span>&gt;</p>
+style='mso-spacerun:yes'>Â Â Â  </span>&lt;<span class=SpellE>ul</span>&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>  </span>&lt;li&gt;How <span class=GramE>To</span>
+style='mso-spacerun:yes'>Â  </span>&lt;li&gt;How <span class=GramE>To</span>
 Style Boyfriend Jeans&lt;/li&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>  </span>&lt;li&gt;When Print Is Too Much&lt;/li&gt;</p>
+style='mso-spacerun:yes'>Â  </span>&lt;li&gt;When Print Is Too Much&lt;/li&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>  </span>&lt;li&gt;The Overalls Trend&lt;/li&gt;</p>
+style='mso-spacerun:yes'>Â  </span>&lt;li&gt;The Overalls Trend&lt;/li&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>  </span>&lt;li&gt;Fall's It Color: Blush&lt;/li&gt;</p>
+style='mso-spacerun:yes'>Â  </span>&lt;li&gt;Fall's It Color: Blush&lt;/li&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>    </span>&lt;/<span class=SpellE>ul</span>&gt;</p>
+style='mso-spacerun:yes'>Â Â Â  </span>&lt;/<span class=SpellE>ul</span>&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>    </span>&lt;div id='contact'&gt;</p>
+style='mso-spacerun:yes'>Â Â Â  </span>&lt;div id='contact'&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>     
+style='mso-spacerun:yes'>Â Â Â Â Â 
 </span>&lt;p&gt;&lt;strong&gt;email&lt;/strong&gt;: isa@fashionblog.com |
 &lt;strong&gt;phone&lt;/strong&gt;: 917-555-1098 |
 &lt;strong&gt;address&lt;/strong&gt;: 371 284th St, New York, NY,
 10001&lt;/p&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>     </span>&lt;/div&gt;</p>
+style='mso-spacerun:yes'>Â Â Â Â  </span>&lt;/div&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'><span
-style='mso-spacerun:yes'>  </span>&lt;/body&gt;</p>
+style='mso-spacerun:yes'>Â  </span>&lt;/body&gt;</p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt'>&lt;/html&gt;</p>
 
